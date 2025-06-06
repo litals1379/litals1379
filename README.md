@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋 I'm Lital Shwartz</h1>
+<h1 align="center">Hi👋 I'm Lital Shwartz</h1>
 <p align="center">
-  <b>Computer Science Student | Full Stack Developer in Training</b><br/>
-  Passionate about React, React Native, AWS & impactful applications
+  <b>Computer Science Student | Aspiring Full Stack Developer</b><br/>
+  with a strong passion for programming and creating real-world applications.
 </p>
 
 ---
@@ -22,8 +22,7 @@
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
 
 ---
 
@@ -38,9 +37,21 @@ Flight booking platform using serverless AWS architecture.
 `HTML/CSS/JS` · `Lambda` · `API Gateway` · `DynamoDB` · `Docker`
 
 🗣️ **StoryTime**  
-Mobile app to help children practice Hebrew reading with voice feedback & animations.  
-`React Native` · `Expo` · `JavaScript` · `UX`
+Mobile app that helps children practice Hebrew reading using **speech recognition**, **voice feedback**, and **engaging animations**.  
+Stories are **generated in real time using AI**, personalized to each child's reading level.
+
+`React Native` · `Expo` · `JavaScript` · `Speech Recognition` · `AI` · `UX`
+
 
 ---
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=litals1379&show_icons=true&theme=radical" alt="Lital's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=litals1379&layout=compact&theme=radical" />
+</p>
 
 <p align="center">✨ Thanks for visiting my profile ✨</p>
