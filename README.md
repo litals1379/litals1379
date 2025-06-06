@@ -1,101 +1,46 @@
-# 👋 Hi, I'm Lital Shwartz
-
-🎓 Third-year Computer Science student at **Ruppin Academic Center**  
-💡 Passionate about building web and mobile applications with real-world impact  
-🌱 Currently exploring full stack development with a focus on **React.js**, **React Native**, and **AWS**
-
----
-
-## 🧠 About Me
-
-I’m a curious and creative developer who loves learning by building.  
-Whether it’s a web system hosted on the cloud or an educational mobile app for kids —  
-I enjoy transforming ideas into user-friendly, engaging solutions.
-
-I'm especially interested in:
-
-- Frontend development with **React** & **mobile UI**
-- Serverless backend & **cloud infrastructure** with AWS
-- Projects that combine **tech + education + accessibility**
-
-I'm currently seeking opportunities where I can **grow, contribute**, and keep learning every day.
+<h1 align="center">Hi there 👋 I'm Lital Shwartz</h1>
+<p align="center">
+  <b>Computer Science Student | Full Stack Developer in Training</b><br/>
+  Passionate about React, React Native, AWS & impactful applications
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**:  
-`JavaScript` · `C#` · `HTML` · `CSS` · `SQL`
-
-**Frontend & Mobile**:  
-`React.js` · `React Native` · `Expo` · `Lottie` · `Responsive Design`
-
-**Backend & Cloud**:  
-`.NET` · `Node.js` · `AWS Lambda` · `API Gateway` · `DynamoDB`
-
-**Tools & Other**:  
-`Git` · `GitHub` · `Docker` · `Postman` · `Figma` · `VS Code`
+### 📬 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/litalshwartz)  
+📧 litals1379@walla.com
 
 ---
 
-## 🌟 Highlighted Projects
+### 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
 ---
 
-### 📚 **Platinum Literature Club**  
-**Full Stack Web Application**
+### 🌟 Featured Projects
 
-A collaborative platform for book lovers to browse, review, and discuss literature online.  
-This full-stack app was built by a team of 3 and includes:
+📚 **Platinum Literature Club**  
+Full stack app for book lovers – includes user auth, book rankings, reviews & trivia games.  
+`JavaScript` · `.NET` · `SQL` · `HTML/CSS`
 
-- 🔐 **User authentication** (registration & login)
-- 📚 **Book listings**, rankings, and reviews
-- 🧠 **Trivia games** to engage users
-- 🎨 Designed with responsive layout and intuitive UI
+☁️ **CloudTrip**  
+Flight booking platform using serverless AWS architecture.  
+`HTML/CSS/JS` · `Lambda` · `API Gateway` · `DynamoDB` · `Docker`
 
-I contributed to both the **front-end** and **back-end** logic using **.NET** and **SQL**, gaining experience in **RESTful API development** and **database design**.
-
-> Tech stack: `.NET`, `SQL`, `JavaScript`, `HTML`, `CSS`
-
----
-
-### ☁️ **CloudTrip**  
-**Microservices-Based Flight Booking System**
-
-Developed a cloud-native flight booking system as an academic project.  
-The platform enables users to search and book flights via a modern UI, while the backend architecture relies on AWS services.
-
-- 🛫 Built front-end with **HTML, CSS, JavaScript**
-- 🧩 Integrated **Lambda**, **API Gateway**, **DynamoDB**
-- 🔄 Implemented **CI/CD** using Docker and GitHub Actions
-
-This project gave me hands-on experience with **serverless architecture**, **microservices**, and **cloud infrastructure**.
-
-> Tech stack: `AWS`, `Lambda`, `DynamoDB`, `Docker`, `JavaScript`
+🗣️ **StoryTime**  
+Mobile app to help children practice Hebrew reading with voice feedback & animations.  
+`React Native` · `Expo` · `JavaScript` · `UX`
 
 ---
 
-### 🗣️ **StoryTime**  
-**Speech-Enabled Mobile App (React Native)**
-
-An interactive app that helps children ages 6–10 improve their Hebrew reading skills through voice feedback and gamified interaction.
-
-- 🗨️ Used **expo-speech** and speech recognition libraries
-- ⭐ Designed animated UI with rewards and encouragement
-- 📊 Included progress tracking and feedback mechanisms
-
-Strengthened my skills in **mobile development**, **state management**, and **user-centered design**.
-
-> Tech stack: `React Native`, `Expo`, `JavaScript`, `UX Design`
-
----
-
-## 📫 Contact
-
-- 💼 [LinkedIn](https://linkedin.com/in/litalshwartz)  
-- 📧 [Email](mailto:litals1379@walla.com)  
-- 🌍 [GitHub](https://github.com/litals1379)
-
----
-
-_Thank you for visiting my profile! Feel free to explore my projects or reach out for collaboration._ ✨
+<p align="center">✨ Thanks for visiting my profile ✨</p>
